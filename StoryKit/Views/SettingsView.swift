@@ -55,14 +55,14 @@ public struct SettingsView: View {
             }
 
             Picker(String(localized: "storykit.settings.language"), selection: $locale) {
-                Text("简体中文").tag("zh-CN")
-                Text("English").tag("en")
-                Text("日本語").tag("ja")
+                Text(String(localized: "storykit.language.zh_cn")).tag("zh-CN")
+                Text(String(localized: "storykit.language.en")).tag("en")
+                Text(String(localized: "storykit.language.ja")).tag("ja")
             }
 
             Picker(String(localized: "storykit.settings.default_format"), selection: $defaultExportFormat) {
-                Text("PNG (Raster)").tag("png")
-                Text("SVG (Vector)").tag("svg")
+                Text(String(localized: "storykit.format.png")).tag("png")
+                Text(String(localized: "storykit.format.svg")).tag("svg")
             }
         }
     }
