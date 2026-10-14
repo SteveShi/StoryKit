@@ -5,7 +5,7 @@
 **StoryKit** is a native macOS application for procedural fictional world and map generation, powered by Swift 6, SwiftUI, and [Jannchie/cartographer](https://github.com/Jannchie/cartographer).
 
 <p align="center">
-  <img src="web/cartographer/docs/images/en/world-3d.webp" alt="StoryKit 3D Diorama" width="90%">
+  <img src="docs/images/world-3d-en.webp" alt="StoryKit 3D Diorama" width="90%">
 </p>
 
 ## Highlights

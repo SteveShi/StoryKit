@@ -5,7 +5,7 @@
 **StoryKit** 是一款基于 Swift 6 与 SwiftUI 打造的 macOS 原生虚构世界与地图生成套件，内核由开源项目 [Jannchie/cartographer](https://github.com/Jannchie/cartographer) 驱动。
 
 <p align="center">
-  <img src="web/cartographer/docs/images/zh/world-3d.webp" alt="StoryKit 3D 沙盘视图" width="90%">
+  <img src="docs/images/world-3d-zh.webp" alt="StoryKit 3D 沙盘视图" width="90%">
 </p>
 
 ## 特性亮点
