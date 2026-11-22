@@ -20,7 +20,7 @@ public final class StoryKitBridge: NSObject, WKScriptMessageHandler, ObservableO
 
             window.StoryKitNative = {
                 isMacNative: true,
-                version: "1.0.0",
+                version: "1.0.1",
 
                 saveFile: function(filename, blobOrDataUrl) {
                     if (typeof blobOrDataUrl === 'string') {
